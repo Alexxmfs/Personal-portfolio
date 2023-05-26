@@ -14,21 +14,12 @@ A página inicial do portfólio apresenta uma introdução concisa e cativante s
 <h2><b>Tecnologias Utilizadas</b></h2>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Alex-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"          hspace="10">
-
-  <img align="center" alt="Alex-React-Native" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" hspace="10" />
   
-   <img align="center" alt="Alex-React-Navigation" height="60" width="60" src="https://reactnavigation.org/img/spiro.svg" hspace="10" />
+  
+  <img align="center" alt="HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" hspace="10" />
+    
+   <img align="center" alt="CSS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" hspace="10" />
    
-   <img align="center" alt="Alex-React-Navigation" height="60" width="60" src="https://opencollective-production.s3.us-west-1.amazonaws.com/e0c11e40-0595-11ea-bb7c-cf9c6343ca68.png" hspace="10" />
-
-
-   <img align="center" alt="Alex-React-Navigation" height="60" width="60"         src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" hspace="10"  />
-
-   <img align="center" alt="Alex-NODEJS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" hspace="10" />
-
-   <img align="center" alt="Alex-Redux" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" hspace="10" />
-   
-   <img align="center" alt="Alex-MongoDB" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" hspace="10" />
+  <img align="center" alt="Alex-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="10">
 
   </div>
