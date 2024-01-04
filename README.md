@@ -2,7 +2,7 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/Alexxmfs/Personal-portfolio/master/home.PNG" />
+<img src="https://raw.githubusercontent.com/Alexxmfs/Personal-portfolio/master/Demo.PNG" />
 
 <p>O projeto "Meu Portfólio Pessoal" é um website desenvolvido usando as tecnologias HTML, CSS e JavaScript, com o objetivo de apresentar e destacar minhas habilidades, experiências e projetos anteriores.
 
